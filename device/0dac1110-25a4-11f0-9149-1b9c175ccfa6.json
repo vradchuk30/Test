@@ -1,0 +1,107 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "dc954420-421d-11f0-b79e-55b148386954"
+    },
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "0dac1110-25a4-11f0-9149-1b9c175ccfa6"
+    },
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "0dac1110-25a4-11f0-9149-1b9c175ccfa6"
+    },
+    "label" : "",
+    "name" : "Attribute test",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "Attribute Alarm"
+  },
+  "credentials" : {
+    "credentialsId" : "Vy6UQFZyn1eGQ2P88do7",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1749136820971,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1749136820971,
+      "longValue" : 1749136820971,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1749136195644,
+      "longValue" : 1749136195015,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "serat",
+      "lastUpdateTs" : 1749136107459,
+      "longValue" : 10,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "eye",
+      "lastUpdateTs" : 1749112528608,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "park",
+      "lastUpdateTs" : 1749112530584,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sharedat",
+      "lastUpdateTs" : 1749136096896,
+      "longValue" : 20,
+      "strValue" : null
+    } ]
+  },
+  "calculatedFields" : [ ]
+}

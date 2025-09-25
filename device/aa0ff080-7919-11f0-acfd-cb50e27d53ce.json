@@ -1,0 +1,284 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : null,
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "a9df4390-7919-11f0-acfd-cb50e27d53ce"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "aa0ff080-7919-11f0-acfd-cb50e27d53ce"
+    },
+    "label" : "Tank 1288",
+    "name" : "001288",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "Tank"
+  },
+  "credentials" : {
+    "credentialsId" : "KSW133cD5fzTUeJY8063",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "alarmFilter",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : "offline highTemperature "
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "highTemperatureAlarmsCount",
+      "lastUpdateTs" : 1755181161512,
+      "longValue" : 1,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1755181905603,
+      "longValue" : 1755181905602,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityTimeout",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : 720000,
+      "strValue" : null
+    }, {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isHighTemperature",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isLowBattery",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isLowFuel",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isLowTemperature",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isNoAlarms",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : 1755181159008,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastInactivityAlarmTime",
+      "lastUpdateTs" : 1755181905665,
+      "longValue" : 1755181905602,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 34.033674,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "levelMeasurement",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "Remaining space"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "liquidType",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "Gasoline mid-grade (89 octane)"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : -118.26237,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lowBatteryAlarmsCount",
+      "lastUpdateTs" : 1755181161512,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lowFuelLevelAlarmsCount",
+      "lastUpdateTs" : 1755181161512,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lowTemperatureAlarmsCount",
+      "lastUpdateTs" : 1755181161512,
+      "longValue" : 0,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sensorDimensionUnits",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "in"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sensorGap",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : 10,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sensorMeasurementSystem",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "Imperial"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"length\":500,\"diameter\":250}",
+      "key" : "sizeMeasure",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 32724.92,
+      "jsonValue" : null,
+      "key" : "tankCapacity",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "tankCapacityOutput",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "L"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "tankDimensionUnits",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "cm"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "tankMeasurementSystem",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "Metric"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "tankShape",
+      "lastUpdateTs" : 1755181158308,
+      "longValue" : null,
+      "strValue" : "Horizontal Capsule"
+    } ],
+    "SHARED_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
